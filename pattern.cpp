@@ -6,7 +6,7 @@ int main(){
    
    int row{};
    cout << "Enter the number of row: ";
-   cin >> row;
+   cin >> row;ikashgdflughsaihof
 
    
    
